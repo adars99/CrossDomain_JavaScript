@@ -9,16 +9,11 @@
 
 
   <body>
- 
-    
-    <div id="readme" class="blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a id="user-content-j50nπ" class="anchor" href="#j50nπ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ajax</h1>
-
 <p>Ajax Cross browser JSONP call using Javascript (pure JS)</p>
 
 <h2><a id="user-content-authors" class="anchor" href="#authors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors</h2>
 
-<p>Roberto Decurnex (<a href="mailto:adars99@gmail.com">adars99@gmail.com</a>)</p>
+<p>Adarsh Kumar (<a href="mailto:adars99@gmail.com">adars99@gmail.com</a>)</p>
 
 <h2><a id="user-content-download" class="anchor" href="#download" aria-hidden="true"><span class="octicon octicon-link"></span></a>Download</h2>
 
