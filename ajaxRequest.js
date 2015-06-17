@@ -8,9 +8,7 @@ var ajaxRequest = {
    currentScript: null,
  
    getJSON: function(url, data, callback) {
-       cookie = $.apnCookie("gset");
-       if ((!cookie) || (cookie.indexOf("ss=0") === -1)) {
-           requestStartTime = new Date().getTime();
+          requestStartTime = new Date().getTime();
            var src = url + (url.indexOf("?") + 1 ? "&" : "?");
            var head = document.getElementsByTagName("head")[0];
            var newScript = document.createElement("script");
@@ -30,7 +28,6 @@ var ajaxRequest = {
  
            if (this.currentScript) head.removeChild(currentScript);
            head.appendChild(newScript);
-       }
    },
  
    success: null
